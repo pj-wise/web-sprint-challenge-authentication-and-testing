@@ -28,6 +28,8 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 2. What does `bcrypt` do to help us store passwords in a secure manner.
 
+bcrypt generates a salt (random data) and combines it with the provided password to create a unique hash that is one-way(cant be reversed)
+
 3. How are unit tests different from integration and end-to-end testing.
 
 4. How _Test Driven Development_ changes the way we write applications and tests.
